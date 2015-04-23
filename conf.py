@@ -38,8 +38,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Aprendiendp Yii'
-copyright = u'2012, Armando Arce'
+project = u'Aprendiendo Yii'
+copyright = u'2015, Matias Nahuel Améndola'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
